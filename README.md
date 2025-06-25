@@ -40,9 +40,12 @@ sudo apt update && sudo apt upgrade -y
 | `sudo [command]`       | Run a command with superuser privileges                      |
 
 ---
+---
 
-# Viev More ⬇️
+# View More ⬇️
 
+---
+---
 
 | Command                      | Description                              |
 |------------------------------|----------------------------------------|
