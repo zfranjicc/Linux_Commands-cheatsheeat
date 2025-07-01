@@ -4,6 +4,24 @@ Personal cheat sheet with essential Linux commands for beginners and intermediat
 
 ---
 
+## 🐧 Linux Commands Cheat Sheet – Table of Contents
+
+- 🔰 [First Command: Update System](#first-command-update-system)
+- 🐧 [Top 20 Linux Commands](#top-20-linux-commands)
+- 📂 [File Permissions & Ownership](#file-permissions--ownership)
+- 🔍 [Searching and Finding Files](#searching-and-finding-files)
+- 🧑‍💻 [Process Management](#process-management)
+- 📡 [Networking](#networking)
+- 📦 [Package Management (Debian/Ubuntu)](#package-management-debianubuntu)
+- 💾 [Disk Usage and Monitoring](#disk-usage-and-monitoring)
+- 🔧 [System Information and Control](#system-information-and-control)
+- 📜 [Viewing Logs](#viewing-logs)
+- 📚 [Miscellaneous Useful Commands](#miscellaneous-useful-commands)
+- 🎯 [Example Usage](#example-usage)
+
+
+---
+
 ## FIRST COMMAND
 
 Update and upgrade system
